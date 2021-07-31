@@ -1,0 +1,25 @@
+[
+
+  {
+
+      "category": "Стулья",
+      "name": "Стул фамильный",
+      "short_desc": "топчик",
+      "image": "products_images/product-2.jpg",
+      "description": " ",
+      "price": "12.00",
+      "quantity": 0
+
+  },
+    {
+
+      "category": "Диваны",
+      "name": "Диванчик",
+      "short_desc": "топчик диванчик",
+      "image": "products_images/product-2.jpg",
+      "description": " ",
+      "price": "24.00",
+      "quantity": 0
+
+  }
+]
